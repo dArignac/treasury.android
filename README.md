@@ -1,5 +1,13 @@
 For the server side see https://github.com/dArignac/treasury.
 
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [treasury Android-App](#)
+	- [Libs](#)
+		- [xzing](#)
+	- [Development](#)
+		- [Resources](#)
+
 # treasury Android-App
 
 ## Libs
