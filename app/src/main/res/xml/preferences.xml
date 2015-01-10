@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory
+        android:id="@+id/preferenceCategoryBase"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:key="pref_key_category_base"
+        android:title="@string/settings_base" >
+        <EditTextPreference
+            android:key="pref_key_server_url"
+            android:title="@string/settings_server_url" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Treasury</string>
+    <string name="button_price_trend">Price Trend</string>
+    <string name="button_scan_add">Scan &amp; Add</string>
+    <string name="button_scan_info">Scan &amp; Info</string>
+    <string name="label_barcode">Code:</string>
+    <string name="label_format">Format:</string>
+    <string name="label_in_collection">In Collection:</string>
+    <string name="label_price_amazon">Amazon Price:</string>
+    <string name="label_similar_items">Similar Items in Collection:</string>
+    <string name="label_title">Title:</string>
+    <string name="not_scanned">Not scanned yet</string>
+    <string name="settings_activity_name">Settings</string>
+    <string name="settings_base">Basic Settings</string>
+    <string name="settings_server_url">Server URL</string>
+    <string name="zero">0</string>
+
+</resources>
